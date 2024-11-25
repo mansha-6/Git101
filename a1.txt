@@ -1,0 +1,4 @@
+Q1 - What is the version control?How does it work?
+Ans - Version control is a system that helps developers manage changes to source code, documents, and other files over time. 
+It enables collaboration, keeps track of revisions, and provides mechanisms to revert changes, compare versions, and understand the history of the project. 
+It’s an essential tool in software development to ensure team efficiency and maintain the integrity of a codebase.

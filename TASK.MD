@@ -1,0 +1,16 @@
+
+-In your root foilder,create a WDF directory
+- Inside the WDF sub-directory , create a folder called GitTask1
+-Navigate inside the GitTask1
+- Initialize Git
+- Using Chatgpt/Gemini , generate the answer to the questions:
+   -What is the version control?How does it work?
+   - What are the types of Version Control?
+   - What is Git? What are it's advantages over other types of version control
+- Store each answer in files a1.txt,a2.txt,a3.txt
+- One by one stage and commit each file
+- After all three files are commited , create a new file q.txt
+- Paste the questions inside q.txt stage it and commit
+- Print the commit log
+- Delete the q.txt file,stage and commit the change
+- Again print the commit log -ibn a concise manner   

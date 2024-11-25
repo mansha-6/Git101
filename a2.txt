@@ -1,0 +1,5 @@
+Q2 - What are the types of Version Control?
+Ans - Version control systems (VCS) can be classified into three main types based on how they manage versioned files and collaboration:
+1. Local Version Control Systems
+2. Centralized Version Control Systems (CVCS)
+3. Distributed Version Control Systems (DVCS)

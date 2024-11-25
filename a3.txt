@@ -1,0 +1,14 @@
+Q3 - What is Git? What are it's advantages over other types of version control
+Ans - Git is a distributed version control system (DVCS) designed to track changes in files, especially in source code during software development. 
+Created by Linus Torvalds in 2005, Git is free and open-source, and it's one of the most widely used tools for version control today.
+
+In Git, every developer has a full copy of the repository, including its entire history. 
+Changes can be made locally and later synchronized with other copies of the repository through pushing and pulling changes.
+
+Key Features of Git
+Distributed System: Each developer has a complete local copy of the repository.
+Efficient Branching and Merging: Developers can create, manage, and merge branches seamlessly.
+Speed: Git is designed to be very fast for operations like branching, merging, and history lookup.
+Data Integrity: Ensures the integrity of your data using cryptographic hashing (SHA-1).
+Lightweight: Git repositories are highly efficient in storage and speed.
+Offline Capabilities: Most operations can be performed without a network connection.
