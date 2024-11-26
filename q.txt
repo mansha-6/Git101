@@ -1,3 +1,0 @@
-Q1 - What is the version control?How does it work?
-Q2 - What are the types of Version Control?
-Q3 - What is Git? What are it's advantages over other types of version control
