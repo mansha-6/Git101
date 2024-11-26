@@ -1,4 +1,4 @@
-console.log(2+32
+console.log(2+32);
 a+b
-3
+c
 
