@@ -1,4 +1,2 @@
-console.log(2+32);
-a+b
-c
+console.log("This is my first project")
 
